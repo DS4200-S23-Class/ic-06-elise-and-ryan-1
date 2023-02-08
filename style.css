@@ -1,0 +1,8 @@
+svg{
+    border: 1px solid black;
+}
+
+line{
+    stroke: blue;
+    stroke-width: 10;
+}
